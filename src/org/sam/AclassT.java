@@ -8,6 +8,8 @@ public class AclassT {
 		System.out.println("C");
 		System.out.println("1");
 		System.out.println("gobi");
+		System.out.println("prem");
+
 
 	}
 
