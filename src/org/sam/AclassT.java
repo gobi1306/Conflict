@@ -7,6 +7,7 @@ public class AclassT {
 		System.out.println("B");
 		System.out.println("C");
 		System.out.println("1");
+		System.out.println("prem");
 
 	}
 
